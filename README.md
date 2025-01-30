@@ -51,6 +51,3 @@ GSK Rent A Car is a responsive car rental website designed to provide users with
 ## Credits
 Developed as a complete front-end website using HTML, CSS, and JavaScript with various libraries to enhance user experience.
 
-## License
-This project is open-source and free to use under [Your Chosen License].
-
