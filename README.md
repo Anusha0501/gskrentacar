@@ -1,5 +1,7 @@
 # GSK Rent A Car
 
+![GSK Rent A Car is a responsive car rental website designed to provide users with an easy and seamless experience when browsing available rental vehicles, checking offers, and contacting the service provider](https://github.com/user-attachments/assets/c572e8cb-7c72-4474-94b0-b6d56ba6acd7)
+
 ## Project Overview
 GSK Rent A Car is a responsive car rental website designed to provide users with an easy and seamless experience when browsing available rental vehicles, checking offers, and contacting the service provider.
 
@@ -50,4 +52,6 @@ GSK Rent A Car is a responsive car rental website designed to provide users with
 
 ## Credits
 Developed as a complete front-end website using HTML, CSS, and JavaScript with various libraries to enhance user experience.
+
+![GSK Rent A Car is a responsive car rental website designed to provide users with an easy and seamless experience when browsing available rental vehicles, checking offers, and contacting the service provider  (2)](https://github.com/user-attachments/assets/7aa41532-f5f6-415f-9e3a-b79ecb8badea)
 
